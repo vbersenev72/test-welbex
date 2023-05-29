@@ -9,5 +9,5 @@ CREATE TABLE post(
 
 CREATE TABLE person(
     id SERIAL PRIMARY KEY,
-    name VARCHAR,
+    name VARCHAR
 );
